@@ -6,3 +6,14 @@ The following is the list to keep track of which wallets are audited. Make a PR 
 # Unaudited NEAR Wallets
 - Meteor Wallet https://meteorwallet.app/
 # Wallets Not Ready for an Audit
+
+
+## From TG
+- Cypherock https://cypherock.com
+- NEARFI https://github.com/DegaLabs/nearfi-apks/blob/master/NearFiWallet.apk
+- XDEFI Wallet (xdefi.io).
+- ExcheQR www.excheqr.xyz
+- Leap Wallet
+- Strike
+- Finer Wallet
+- HERE Wallet 
